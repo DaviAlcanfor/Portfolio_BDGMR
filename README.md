@@ -11,6 +11,6 @@
     Esse projeto reúne as páginas pessoas de todos os participantes do grupo. <br> Os portfólios foram feitos durante a aula de Desenvolvimento no 1° ano <br> com o objetivo de treinar e aprimorar nossas habilidades no desenvolvimento de páginas estáticas
 
 ## Instruções
-    1. Acesse o link -> [https://davialcanfor.github.io/Portfolio_BDGMR/](https://davialcanfor.github.io/Portfolio_BDGMR/)
+    1. Acesse o link -> [nosso site](https://davialcanfor.github.io/Portfolio_BDGMR/)
     2. Clique no link do portfólio que deseja visualizar
     3. Conheça todos nossos integrantes!
